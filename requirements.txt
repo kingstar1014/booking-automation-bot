@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pandas
+argparse
+restricted_input
+pyautoit
